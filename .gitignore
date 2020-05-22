@@ -4,13 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/public
-logo.svg
-App.test.js
-serviceWorker.js
-setupTests.js
-pachage-lock.json
-package.json
+
 
 # testing
 /coverage
